@@ -1,6 +1,8 @@
 # staistical-computing-package
 
 Note: This package was developped as classroom project.
+
+
 A Python package that does basic operations for Gaussian and Binomial distributions.
 
 ## Installing the package 
